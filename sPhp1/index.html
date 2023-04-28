@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zad 14</title>
+    <link type="text/css" rel="stylesheet" href="style.css">
+    <script src="script.js" ></script>
+</head>
+<body>
+    <div id="box">
+        <h1>Formularz mail w PHP</h1>
+    <div id="for">
+        <form name="form" action="script.php" method="post">
+            <label for="name">Imię i Nazwisko:</label>
+            <input type="text" id="name" name="name"><br>
+            <label for="mail">Adres email (zwrotny):</label>
+            <input type="text" id="mail" name="mail"><br><br>
+            
+            <label for="mess">Treść Wiadomości:</label><br>
+            <textarea id="mess" name="mess" rows="10" cols="48"></textarea>
+            
+            <button type="submit" id="but2">Wyślij</button>            
+            <button type="reset" id="but">Wyczyść</button>
+            
+        </form>
+    </div>
+    </div>
+    
+</body>
+
+</html>

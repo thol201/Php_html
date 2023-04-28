@@ -1,0 +1,4 @@
+user1:password_for_user1
+user2:password_for_user2
+krzysztof:supertajne
+eustachy:malina

@@ -1,0 +1,61 @@
+#box
+{
+    width: 800px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 10px;
+}
+#for
+{
+    width: 400px;
+    height: 350px;
+    background-color: deepskyblue;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-style: solid;
+    border-width: 3px;
+}
+input
+{
+    margin-top: 10px;
+}
+label
+{
+    margin-top: 10px;
+}
+button
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#mess   
+{
+    white-space:pre-wrap;
+}
+#res,#res2
+{
+    width: 413px;
+    height: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    text-align: left;
+    font-size: 15px;
+    
+    padding-left: 10px;
+    border-style: dotted;
+    border-width: 1px;
+    
+    background-color:palegreen;
+    
+}
+#res2
+{
+    background-color:indianred;
+    
+}
